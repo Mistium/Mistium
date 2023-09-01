@@ -4,14 +4,20 @@ My Stuff ->
 
 ### originOS
 
+![Origin OS](https://img.itch.zone/aW1nLzk4MDk4OTYuZ2lm/105x83%23/Y%2BPxVg.gif)
+
+
 repo: [originOS]
+itch.io: [originitch]
 
 Origin is by far my biggest project, with a full ui scripting language, network support, port simulation and a multitude of other stuff
 
 
 ### Mages And Magic
+![Mages and magic gif](https://img.itch.zone/aW1nLzExMTIxNjY1LmdpZg==/105x83%23/yVDFpJ.gif)
 
 repo: [Mages And Magic]
+itch.io: [mamitch]
 
 Mages and Magic is my longest running project but i havent done as much with it recently due to a lack of interest. The game is an mmorpg with all the normal skills and all those sorts of things.
 I recently have moved all of the items system into github so when the app boots up, it grabs from github the newest version of items.
@@ -19,4 +25,6 @@ I plan to eventually allow anyone to create completely custom worlds and weapons
 This would allow no need to ever update the client except for adding enemy ai types.
 
 [origin]: https://github.com/Mistium/Origin-OS
-[origin]: https://github.com/Mistium/Mages-And-Magic
+[originitch]: https://equilibrium-studios.itch.io/origin-os
+[Mages And Magic]: https://github.com/Mistium/Mages-And-Magic
+[mamitch]: https://equilibrium-studios.itch.io/mages-n-magic
