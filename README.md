@@ -1,7 +1,7 @@
 # Hey! I'm Mistium
 
 😱 View counter vvv <br>
-<img src="https://count.getloli.com/get/@mistium" alt=":views"/>
+<img src="https://count.getloli.com/get/@mistium?theme=rule34" alt=":views"/>
 
 ![Repos](https://api.githubtrends.io/user/svg/Mistium/repos?time_range=one_year&theme=dark)
 
