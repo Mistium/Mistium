@@ -3,8 +3,6 @@
 😱 View counter vvv <br>
 <img src="https://count.getloli.com/get/@mistium?theme=rule34" alt=":views"/>
 
-![Repos](https://api.githubtrends.io/user/svg/Mistium/repos?time_range=one_year&theme=dark)
-
 My Stuff ->
 
 ### originOS
