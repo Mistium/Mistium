@@ -1,7 +1,7 @@
 # Hey! I'm Mistium
 
 😱 View counter vvv <br>
-<img src="https://count.getloli.com/get/@mistium?theme=rule34" alt=":views"/>
+<img src="https://count.getloli.com/get/@mist?theme=rule34" alt=":views"/>
 
 My Stuff ->
 
