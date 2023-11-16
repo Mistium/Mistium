@@ -24,3 +24,6 @@ Mages and Magic is my longest running project but i havent done as much with it 
 I recently have moved all of the items system into github so when the app boots up, it grabs from github the newest version of items.
 I plan to eventually allow anyone to create completely custom worlds and weapons, and place enemies inside of it. All of this synced from github repositories.
 This would allow no need to ever update the client except for adding enemy ai types.
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mistium)](https://github.com/mistium)
