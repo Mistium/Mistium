@@ -1,4 +1,4 @@
-# Hey! I'm Mistium
+# Hey! I'm Mist 👋
 
 😱 View counter vvv <br>
 <img src="https://count.getloli.com/get/@mistium" alt=":views"/>
