@@ -10,16 +10,16 @@
 
 ## Skills ->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,py,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,nodejs,py,md,regex)](https://skillicons.dev)
 
 Im experienced with code optimisation and js mostly. My main project is a scratchOS (not a shitty one :/) shown below, its basically linux at this point 😝
 ![Screenshot 2024-06-25 at 12 13 45](https://github.com/Mistium/Mistium/assets/92952823/7a215bf1-f7b6-4aa5-a385-772c38224189)
 
-I have a discord server! [join it here]()
+I have a discord server! [join it here](https://discord.com/invite/7DcwkqrZ9S)
 
 ## Stuff I use ->
 
-[![My Skills](https://skillicons.dev/icons?i=apple,cloudflare,discord,replit,vscode,github,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,cloudflare,discord,replit,vscode,github,windows,atom,discordjs,git)](https://skillicons.dev)
 
 ## Links ->
 
