@@ -23,4 +23,4 @@ I have a discord server! [join it here](https://discord.com/invite/7DcwkqrZ9S)
 
 ## Links ->
 
-[Home](https://mistium.com) | [originOS](https://origin.mistium.com) | [Mages and Magic](https://equilibrium-studios.itch.io/mages-n-magic) | [Extensions](https://extensions.mistium.com)
+[Home](https://mistium.com) | [originOS](https://origin.mistium.com) | [Rotur](https://github.com/RoturTW) | [Mages and Magic](https://equilibrium-studios.itch.io/mages-n-magic) | [Extensions](https://extensions.mistium.com)
