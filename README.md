@@ -1,5 +1,7 @@
 # Hey! I'm Mist 👋
 
+Taken by my Richy <3
+
 [My Homepage](https://mistium.com)
 
 😱 View counter vvv
