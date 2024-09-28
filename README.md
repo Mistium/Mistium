@@ -15,7 +15,7 @@ Taken by my Richy <3
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,nodejs,py,md,regex)](https://skillicons.dev)
 
 Im experienced with code optimisation and js mostly. My main project is a scratchOS (not a shitty one :/) shown below, its basically linux at this point 😝
-<img width="1792" alt="Screenshot 2024-08-23 at 16 43 00" src="https://github.com/user-attachments/assets/99f6fc95-81be-4c7c-bf3c-fbc2fac0ac54">
+<img width="1792" alt="Screenshot 2024-08-23 at 16 43 00" src="https://github.com/user-attachments/assets/46f6fd28-28bb-4d06-b7ef-7ed62cb4ff9d">
 
 
 I have a discord server! [join it here](https://discord.com/invite/7DcwkqrZ9S)
