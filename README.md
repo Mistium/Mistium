@@ -1,7 +1,5 @@
 # Hey! I'm Mist 👋
 
-Taken by my Richy <3
-
 [My Homepage](https://mistium.com)
 
 😱 View counter vvv
@@ -9,6 +7,8 @@ Taken by my Richy <3
 <img src="https://count.getloli.com/get/@mistium" alt=":views"/>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mistium&show_icons=true&theme=dark)](https://github.com/mistium)
+
+Taken by my Richy <3
 
 ## Skills ->
 
