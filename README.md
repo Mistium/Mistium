@@ -8,8 +8,6 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mistium&show_icons=true&theme=dark)](https://github.com/mistium)
 
-Taken by my Richy <3
-
 ## Skills ->
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,nodejs,py,md,regex)](https://skillicons.dev)
