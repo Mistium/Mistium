@@ -1,5 +1,7 @@
 # Hey! I'm Mist 👋
 
+abnormally neurologically locked in
+
 [My Homepage](https://mistium.com)
 
 
