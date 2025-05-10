@@ -1,4 +1,4 @@
-# Hey! I'm Mist 👋
+# Hey! I'm Mistium 👋
 
 abnormally neurologically locked in
 
