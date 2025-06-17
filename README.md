@@ -12,7 +12,7 @@ abnormally neurologically locked in
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,nodejs,py,md,regex)](https://skillicons.dev)
 
 Im experienced with code optimisation and js mostly. My main project is a scratchOS (not a shitty one :/) shown below, its gets mistaken for linux lmfao 😝
-<img width="1792" alt="Screenshot 2024-08-23 at 16 43 00" src="https://raw.githubusercontent.com/Mistium/Origin-OS/refs/heads/main/Resources/Desktop1.png">
+<img width="1792" alt="" src="https://github.com/user-attachments/assets/98b05967-7f59-4aca-92d5-1c80850af965">
 
 
 I have a discord server! [join it here](https://discord.com/invite/7DcwkqrZ9S)
